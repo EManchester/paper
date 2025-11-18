@@ -16,7 +16,7 @@ but continental scale said nahhhhh.
 # Simulations
 We perform simulations.
 
-# Maethods
+# Methods
 We compared our measurements with Smith et al 2002.
 Here are some new, exciting methods
 
