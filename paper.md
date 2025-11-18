@@ -20,3 +20,6 @@ We compared our measurements with Smith et al 2002.
 
 # Results
 The simulations indicate these really important results.
+
+# Figures
+Figures go in this section
