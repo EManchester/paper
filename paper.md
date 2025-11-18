@@ -12,8 +12,11 @@ Particle size was measured using a PCASP (Bloggs et al 2004).
 Jones et al (1998) conducted several studies in this region,
 but continental scale said nahhhhh.
 
-#Simulations
+# Simulations
 We perform simulations.
 
-#Maethods
+# Maethods
 We compared our measurements with Smith et al 2002.
+
+# Results
+The simulations indicate these really important results.
