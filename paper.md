@@ -2,7 +2,8 @@
 Aging of biomass burning aerosols over West Africa
 
 # Author
-Emily Manchester
+Emily Manchester, University of Manchester
+John Smith, University of Elsewhere
 
 # Introduction
 We present aircraft measurements of BBOA over West Africa.
