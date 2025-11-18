@@ -2,6 +2,7 @@
 Aging of biomass burning aerosols over West Africa
 
 # Author
+John Smith
 Emily Manchester
 
 # Introduction
