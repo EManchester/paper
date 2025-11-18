@@ -28,3 +28,6 @@ Figures go in this section
 
 # Conclusions
 Here are our conclusions
+
+# Temperature data
+It is 6 degrees celcius
