@@ -18,6 +18,7 @@ We perform simulations.
 
 # Maethods
 We compared our measurements with Smith et al 2002.
+Here are some new, exciting methods
 
 # Results
 The simulations indicate these really important results.
